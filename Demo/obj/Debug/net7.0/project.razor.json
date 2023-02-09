@@ -1,0 +1,57 @@
+{
+  "SerializedFilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/obj/Debug/net7.0/project.razor.json",
+  "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/Demo.csproj",
+  "Configuration": {
+    "ConfigurationName": "Default",
+    "LanguageVersion": "7.0",
+    "Extensions": []
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "Demo",
+  "Documents": [
+    {
+      "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/_Imports.razor",
+      "TargetPath": "_Imports.razor",
+      "FileKind": "componentImport"
+    },
+    {
+      "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/Pages/Index.razor",
+      "TargetPath": "Pages\\Index.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/App.razor",
+      "TargetPath": "App.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/Shared/SurveyPrompt.razor",
+      "TargetPath": "Shared\\SurveyPrompt.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/Shared/NavMenu.razor",
+      "TargetPath": "Shared\\NavMenu.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/Shared/MainLayout.razor",
+      "TargetPath": "Shared\\MainLayout.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/Pages/Counter.razor",
+      "TargetPath": "Pages\\Counter.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/Users/Bilal/Desktop/docker/webassembly/onplateform/untitled folder/miniproj1/PROJ1/Demo/Pages/FetchData.razor",
+      "TargetPath": "Pages\\FetchData.razor",
+      "FileKind": "component"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
